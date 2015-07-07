@@ -1,0 +1,33 @@
+﻿body 
+{
+	   font-size: 12px;
+}
+.content
+{
+	  margin-left:20px;
+	  margin-top:40px;
+	}
+        .tabtitle
+        {
+            font-size: 12px;
+            height: 32px;
+            color: Black;
+            font-weight: bolder;
+            text-align: center;
+            background-color: #70a4cf;
+        }
+        .tabcenter
+        {
+            font-size: 12px;
+            height: 28px;
+            text-align: center;
+            border-top: 1px solid #70a4cf;
+            border-left: 1px solid #70a4cf;
+        }
+        .tabtd
+        {
+            height: 30px;
+            border-right: 1px solid #70a4cf;
+            border-bottom: 1px solid #70a4cf;
+            text-align: center;
+        }

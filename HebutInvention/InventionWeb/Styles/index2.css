@@ -1,0 +1,596 @@
+*{ /* 定义全局样式
+*/
+  
+  margin:0;
+  padding:0;
+  color:#000;
+  font-size:9pt;
+  color:#000033;
+  list-style-type:none;
+  text-decoration:none;
+  }
+body {
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	background: #ffffff;
+	font-family:"宋体",Verdana,Tahoma,Arial,Helvetica,sans-serif;
+	font-size:13px;
+}
+h1, h2, h3, h4, h5, h6 {
+	clear: both;
+	font-weight: normal;
+}
+h1{font-size:24px;line-height:30px;}
+h2{font-size:20px;line-height:26px;}
+h3{font-size:16px;line-height:24px; }
+h4{font-size:14px;line-height:20px;}
+h5{font-size:14px;line-height:20px;}
+h6{font-size:14px;line-height:20px;}
+
+ul li
+{
+list-style:inside disc;
+}
+a
+{
+    color:#000;
+text-decoration:none;
+outline:none;
+}
+a:hover
+{
+    color:#607890;
+    text-decoration:none;
+}
+
+
+.juzhong{
+	margin:0 auto;
+	width:960px;
+	overflow:hidden;
+}
+.top_top{
+	width:100%;
+	background:#dbedff;
+	line-height:16px;
+	color:#fff;
+}
+/*logo和menu
+*/
+#header
+{
+
+width:960px;
+height:150px;
+background-color:#ffffff;
+margin:0 auto;
+}
+
+#logo{
+width:960px;
+
+
+}
+
+
+/*左部分和右部分
+*/
+#content
+{
+width:960px;
+margin:5px auto 0 auto;
+border-bottom: #bad9f5  1px solid;
+}
+/*左部分
+*/
+#left{
+width:255px;
+float:left;
+overflow:hidden;
+margin-left:0px;
+margin-right:0px;
+ BORDER-LEFT:  #bad9f5  1px solid;  BORDER-RIGHT:  #bad9f5  1px solid;
+}
+/*右部分
+*/
+#right
+{
+ height:719px;   
+width:700px;
+float:left;
+overflow:hidden;
+margin-left: 1px;
+margin-right:0px;
+BORDER-RIGHT:  2px #bad9f5 solid;
+}
+
+#menu {
+	BORDER-RIGHT-WIDTH: 0px;
+	 LIST-STYLE-TYPE: none;
+	  MARGIN: 0px auto; 
+	  WIDTH: 960px;
+	   BACKGROUND:#0379C8;
+	    BORDER-TOP-WIDTH: 0px; 
+	    BORDER-BOTTOM-WIDTH: 0px;
+	     HEIGHT: 34px; 
+	     OVERFLOW: hidden;
+	      BORDER-LEFT-WIDTH: 0px
+}
+#menu ul LI {
+	BORDER-LEFT: #87adeb 1px solid;
+	 LINE-HEIGHT: 24px; 
+	 DISPLAY: block;
+	  FLOAT: left; 
+	  BORDER-RIGHT: #cbd8ed 0px solid;
+	  margin:0;
+	  padding:0
+}
+#menu ul LI A {
+	FONT-WEIGHT: bold;
+	TEXT-ALIGN:left; 
+	LINE-HEIGHT: 34px;
+	text-align:center;
+	width:159px;
+	 DISPLAY: block;
+	 COLOR: #fff; 
+	 FONT-SIZE: 14px;
+	TEXT-DECORATION: none;
+	 PADDING-TOP: 0px;
+}
+#menu ul li ul{position:absolute;top:154px;width:155px;border:1px #87adeb solid;background:#0379c8;z-index: 999;}
+
+#menu ul li ul li a{width:155px;height:37px;line-height:37px;background:#0379c8;}
+#menu  ul li ul li a:hover{BACKGROUND:#03436E; COLOR: #fff; }
+#menu  ul li ul li{width:155px;height:37px;line-height:37px;float:left;}
+
+/*通知公告
+*/
+.left-block1 {
+	BACKGROUND-IMAGE: url(../images/index2/lumu0.jpg); BACKGROUND-REPEAT: no-repeat;
+	font-size:13px;
+	width:253px;
+	height:280px;
+	margin-bottom:14px;
+	margin:0px  0px 0px 0px ;
+	 BORDER-LEFT:  #bad9f5  1px solid;  BORDER-RIGHT:  #bad9f5  1px solid ;
+	
+   
+}
+.left-block1 h3{
+ LINE-HEIGHT: 27px;padding-left:20px; PADDING-top: 0px;HEIGHT: 34px; FONT-SIZE: 9pt; FONT-WEIGHT: bold;color:#fff;
+ text-align:left;
+}
+.left-block1 h3 a
+{
+    padding-top: 6px;
+padding-right: 2px;
+    }
+.left-block1 ul{
+	padding-right:0px;
+	padding-top:6px;
+	
+}
+.left-block1 li{
+	margin-bottom:10px;
+	margin-left:10px;
+	color:#555;
+	text-align:left;
+	}
+
+/*网络接口
+*/
+.left-jiekou
+{
+    BACKGROUND-IMAGE: url(../images/index2/lumu0.jpg); BACKGROUND-REPEAT: no-repeat;
+	font-size:12px;
+	width:253px;
+	margin-bottom:14px;
+	margin:0px  0px 0px 0px ;
+	border:#bad9f5  1px solid;
+    float:left;
+    height:198px;
+    }
+    .left-jiekou h3
+    {
+      LINE-HEIGHT: 27px;
+      padding-left:20px;
+       PADDING-top: 0px;
+       HEIGHT: 34px;
+     FONT-SIZE: 13px;
+     FONT-WEIGHT: bold;
+     color:#fff;
+ text-align:left;  
+        }
+        .left-jiekou li
+        {
+            float: right;
+            width:120px;
+            list-style-type:none;
+            }
+  .left-jiekou img
+   {
+      margin-bottom:10px;
+    }
+
+/*新闻快递
+*/
+.left-block {
+	BACKGROUND-IMAGE: url(../images/index2/lumu0.jpg); BACKGROUND-REPEAT: no-repeat;
+	font-size:12px;
+	width:253px;
+	height:225px;
+	_height:177px;
+	margin-bottom:14px;
+	margin:0px  0px 0px 0px ;
+	BORDER-BOTTOM:  #bad9f5  1px solid;
+	 BORDER-LEFT:  #bad9f5  1px solid; 
+	 BORDER-TOP:  #bad9f5 1px solid;
+	 BORDER-RIGHT:  #bad9f5  1px solid;
+    float:left
+}
+.left-block h3{ 
+ LINE-HEIGHT: 27px;padding-left:20px; PADDING-top: 0px;HEIGHT: 34px; FONT-SIZE: 9pt; FONT-WEIGHT: bold;color:#fff;
+ text-align:left;
+}
+.left-block h3 a
+{
+    font-size:13px;
+    padding-top: 6px;
+padding-right: 2px;
+    }
+.left-block ul{
+	padding-left:0px;
+	padding-top:6px;
+	
+}
+.left-block li{
+	margin-bottom:10px;
+	margin-left:10px;
+	color:#555;
+	text-align:left
+}
+
+/*工作联盟
+*/
+.left-block2 {
+	BACKGROUND-IMAGE: url(../images/index2/lumu0.jpg); BACKGROUND-REPEAT: no-repeat;
+	font-size:13px;
+	width:253px;
+	height:210px;
+	margin-bottom:14px;
+	margin:0px  0px 0px 0px ;
+	BORDER-BOTTOM:  #bad9f5  1px solid; BORDER-LEFT:  #bad9f5  1px solid;  BORDER-TOP:  #bad9f5 1px solid; BORDER-RIGHT:  #bad9f5  1px solid;
+    float:left
+}
+.left-block2 h3{ 
+ LINE-HEIGHT: 27px;padding-left:20px; PADDING-top: 0px;HEIGHT: 34px; FONT-SIZE: 9pt; color:#fff;font-weight: bold;
+ text-align:left;  width: 220px;
+}
+.left-block2 h3 a
+{
+    padding-top: 6px;
+padding-right: 2px;
+    }
+.left-block2 ul{
+	padding-left:0px;
+	padding-top:6px;
+	
+}
+.left-block2 li{
+	margin-bottom:10px;
+	margin-left:10px;
+	color:#555;
+	text-align:left
+
+}
+/*友情链接
+*/
+.link{
+BACKGROUND-IMAGE: url(../images/index2/lumu0.jpg); BACKGROUND-REPEAT: no-repeat;
+width:253px;
+height:185px;
+margin-top:0px;
+ BORDER-LEFT:  #bad9f5  1px solid;  BORDER-RIGHT:  #bad9f5  1px solid ;
+float:left
+}
+.link h3{
+ LINE-HEIGHT: 27px;padding-left:20px; PADDING-top: 0px;HEIGHT: 34px; FONT-SIZE: 9pt; FONT-WEIGHT: bold;color:#fff;
+ text-align:left;
+
+}
+.link h3 a
+{
+padding-top: 6px;
+padding-right: 2px;
+    }
+.link ul{
+ PADDING:0px 1px;  FLOAT: left; 
+}
+/*带边框的容器 工作动态
+*/
+.con{
+BACKGROUND-IMAGE: url(../images/index2/lumu0.jpg); BACKGROUND-REPEAT: no-repeat; 
+width:701px;
+height:360px; BORDER-RIGHT:  #bad9f5  1px solid;margin-top:0px;
+float:left
+}
+/*自动翻页的图片
+*/
+.pic-news{
+	text-align:center;
+	float:left;
+	width:350px;
+	height:240px;
+	display:block;
+	}
+.pic-news h3{
+ LINE-HEIGHT: 27px;
+ padding-left:20px;
+  PADDING-top: 0px;
+  HEIGHT: 34px;
+   FONT-SIZE: 9pt;
+    FONT-WEIGHT: bold;
+    color:#fff;
+ text-align:left;
+}
+.pic-news h3 a
+{
+padding-top: 6px;
+padding-right: 2px;
+    }
+/*创新案例
+*/
+.con0{
+BACKGROUND-IMAGE: url(../images/index2/lumu0.jpg); BACKGROUND-REPEAT: no-repeat; 
+width:701px;
+height:198px;
+BORDER-bottom:  #bad9f5  1px solid; BORDER-RIGHT:  #bad9f5  1px solid;margin-top:opx;
+float:left
+}
+.con0 h3{
+ LINE-HEIGHT: 27px;padding-left:20px; PADDING-top: 0px;HEIGHT: 34px; FONT-SIZE: 9pt; FONT-WEIGHT: bold;color:#fff;
+ text-align:left;
+}
+.con0 h3 a
+{
+ padding-top: 6px;
+padding-right: 2px;
+    }
+.con0 ul
+{
+     padding:0px 3px;
+     float:left;
+}
+
+/*不带边框的容器
+*/
+.con1{
+width:698px;
+height:203px;
+float:left
+
+}
+/*不带边框的容器（图片间）
+*/
+.con2{
+width:698px;
+float:left;
+height:202px;
+}
+
+/*right中的小模块（不带边框）
+*/
+.right-block{
+	
+	float:left;
+	font-size:13px;
+	width:348px;
+	height:240px;
+	padding:0px;
+	margin:0px  0px 0px 0px ;
+   
+}
+.right-block h3{
+ LINE-HEIGHT: 27px;padding-left:20px; PADDING-top: 0px;HEIGHT: 34px; FONT-SIZE: 9pt; FONT-WEIGHT: bold;color:#fff;
+ text-align:left;
+}
+.right-block h3 a
+{
+padding-top: 6px;
+padding-right: 2px;
+    }
+.right-block ul{
+	padding-top:0px;
+	padding-left:0px;
+	margin-left:0;
+	margin-top:0px;
+}
+.right-block li{
+	margin-bottom:10px;
+	color:#555;
+	margin-left:15px;
+	_margin-left:0;
+    text-align:left;
+}
+.right-block li .date{
+	text-align:right;
+	float:right;
+	color:#555;
+	_margin-top:-17px;
+	*margin-top:-17px
+   
+}
+
+
+
+
+/*right中的小模块（带边框）
+*/
+.right-block1{
+	BACKGROUND-IMAGE: url(../images/index2/lumu0.jpg); BACKGROUND-REPEAT: no-repeat; 
+	float:left;
+	font-size:13px;
+	width:349px;
+	height:203px;
+	padding:0px;
+	margin:0px  0px 0px 0px ;
+   BORDER-LEFT:  #bad9f5  1px solid;  BORDER-RIGHT:  #bad9f5  1px solid  
+}
+.right-block1 h3{
+ LINE-HEIGHT: 27px;
+ padding-left:20px;
+  PADDING-top: 0px;
+  HEIGHT: 34px; 
+  FONT-SIZE: 9pt;
+   FONT-WEIGHT: bold;
+   color:#fff;
+ text-align:left;
+}
+.right-block1 h3 a
+{
+    padding-top: 6px;
+padding-right: 2px;
+    }
+.right-block1 ul{
+	padding-top:6px;
+	padding-left:5px
+	
+}
+.right-block1 li{
+	margin-bottom:10px;
+	margin-left:5px;
+	color:#555;
+	text-align:left
+
+}
+.right-block1 li .date{
+	text-align:right;
+	margin-left:15px;
+	color:#555;
+	
+}
+
+/*right中的小模块（带边框）图片间
+*/
+.right-block2{
+	BACKGROUND-IMAGE: url(../images/index2/lumu11.jpg); BACKGROUND-REPEAT: no-repeat; 
+	float:left;
+	font-size:13px;
+	width:347px;
+	height:360px;
+	padding:0px;
+	margin:0px  0px 0px 0px ;
+    border-right:  #bad9f5  1px solid;
+}
+.rf
+{
+ float:right;
+    }
+.right-block2 h3{
+ LINE-HEIGHT: 27px;
+ padding-left:20px; 
+ PADDING-top: 0px;
+ height:40px;
+  font-size:9pt;
+  font-weight:bold;
+   color:#fff;
+ text-align:left;
+}
+.right-block2 h3 a
+{
+    padding-top: 6px;
+padding-right: 2px;
+    }
+.right-block2 ul
+{
+    margin-top:1px;
+	padding-top:1px;
+	padding-left:5px;
+	
+}
+.right-block2 li{
+	margin-bottom:10px;
+	margin-left:5px;
+	color:#555;
+	text-align:left
+
+}
+.right-block2 li .date{
+	text-align:right;
+	margin-left:15px;
+	float:right;
+	color:#555;
+	_margin-top:-17px;
+	*margin-top:-17px
+   
+}
+/*底层加的链接
+*/
+.dilink
+{
+
+   width:960px;
+   margin-top:2px;
+   BACKGROUND-IMAGE: url(../images/index2/lumu1.jpg); 
+   BACKGROUND-REPEAT: no-repeat; 
+	float:left;
+	font-size:13px;
+	padding:0px;
+	margin:0 auto;
+    border-right:  #bad9f5  1px solid;
+    border-left:  #bad9f5  1px solid;
+    }
+    .dilink h3
+    {
+  LINE-HEIGHT: 27px;
+ padding-left:20px; 
+ PADDING-top: 0px;
+ HEIGHT: 29px;
+ FONT-SIZE: 9pt;
+ FONT-WEIGHT: bold;
+ color:#fff;
+ text-align:left;
+} 
+.dilink li
+{
+    float:left;
+    list-style-type:none;
+    margin-right:5px;
+	list-style:none
+ }
+     .dilink ul
+     {   
+        margin-left:5px;
+         }
+ .dilink ul li img
+ {
+   border:#bad9f5  2px solid;
+   }
+#footer_up{
+background:#b9d5fa;
+width:960px;
+height:20px;
+margin:0 auto; 
+
+}
+
+#footer{
+    margin-right: auto;
+	margin-left: auto;
+	position: relative;
+	text-align: center;
+	width: 960px;
+	padding:0 0px;
+	background-color:#fff;
+	border-top: #bad9f5  1px solid
+
+}
+/* fixed 
+*/
+.clear{
+	clear:both;
+	margin:0;
+	padding:0;
+}
+

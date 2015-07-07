@@ -1,0 +1,195 @@
+.reg_rdl DT B {
+	COLOR: #666
+}
+.reg_rdl DD {
+	FONT-SIZE: 14px
+}
+.regbox {
+	
+}
+.regbox DT {
+	PADDING-BOTTOM: 18px; PADDING-LEFT: 40px; PADDING-RIGHT: 20px; PADDING-TOP: 25px
+}
+.regbox DT B {
+	LINE-HEIGHT: 30px; FONT-FAMILY: microsoft yahei,SimHei; COLOR: #f48713; FONT-SIZE: 24px
+}
+.regbox DT B IMG {
+	MARGIN-RIGHT: 5px
+}
+.regbox DD {
+	PADDING-BOTTOM: 40px; PADDING-LEFT: 40px; PADDING-RIGHT: 40px; PADDING-TOP: 40px
+}
+.regstep {
+	PADDING-BOTTOM: 15px; LINE-HEIGHT: 41px; FONT-FAMILY: microsoft yahei,SimHei; BACKGROUND: url(http://i1.quwan.com/ww/imgs/ucenter/regsteps_bg.png) no-repeat left top; HEIGHT: 41px; COLOR: #1e9cce; FONT-SIZE: 18px; FONT-WEIGHT: bold
+}
+.regstep SPAN {
+	TEXT-ALIGN: center; WIDTH: 41px; PADDING-RIGHT: 10px; DISPLAY: inline-block; COLOR: #fff
+}
+.reg_tab {
+	
+}
+.reg_tab TD {
+	PADDING-RIGHT: 10px
+}
+.reg_tab B {
+	LINE-HEIGHT: 16px; COLOR: #1e9cce; FONT-SIZE: 14px; FONT-WEIGHT: normal
+}
+.reg_tab P {
+	PADDING-BOTTOM: 15px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; COLOR: #999; PADDING-TOP: 10px
+}
+.reg_tab SPAN {
+	
+}
+.reg_tab SPAN IMG {
+	MARGIN-RIGHT: 5px
+}
+.test_tab {
+	MARGIN-TOP: 30px; WIDTH: 580px; MARGIN-LEFT: 50px
+}
+.test_tab TD {
+	PADDING-BOTTOM: 10px
+}
+.ebox1 {
+	WIDTH: 365px
+}
+.ebox2 {
+	WIDTH: 294px
+}
+.ebox3 {
+	WIDTH: 182px
+}
+.reg_input {
+	WIDTH: 342px
+}
+.login_input {
+	WIDTH: 270px
+}
+.reset_input {
+	WIDTH: 270px
+}
+.mobyz_input {
+	WIDTH: 158px; FONT-WEIGHT: bold
+}
+.mailline {
+	Z-INDEX: 10; POSITION: relative
+}
+.maillist {
+	BORDER-BOTTOM: #e2e2e2 1px solid; POSITION: absolute; BORDER-LEFT: #e2e2e2 1px solid; PADDING-BOTTOM: 6px; LINE-HEIGHT: 20px; BACKGROUND-COLOR: #fff; PADDING-LEFT: 6px; WIDTH: 270px; PADDING-RIGHT: 6px; DISPLAY: none; COLOR: #999; BORDER-TOP: #e2e2e2 1px solid; TOP: 27px !important; BORDER-RIGHT: #e2e2e2 1px solid; PADDING-TOP: 6px; LEFT: 0px
+}
+.maillist DT {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 5px; WIDTH: 260px; PADDING-RIGHT: 5px; DISPLAY: block; PADDING-TOP: 0px
+}
+.maillist DD {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 26px; PADDING-LEFT: 5px; WIDTH: 260px; PADDING-RIGHT: 5px; DISPLAY: block; HEIGHT: 26px; PADDING-TOP: 0px
+}
+.mail_on {
+	BACKGROUND-COLOR: #f2f2f2; COLOR: #000; CURSOR: pointer
+}
+.remember {
+	FONT-FAMILY: Tahoma, Geneva, sans-serif
+}
+.reg_btn
+{
+    border-bottom-style: none;
+    border-right-style: none;
+    width: 197px;
+    border-top-style: none;
+    background: url('../../images/front-login/reg_btn.png') no-repeat left top;
+    height: 65px;
+    border-left-style: none;
+    cursor: pointer;
+    margin-right: 10px;
+}
+.login_btn
+{
+    border-bottom-style: none;
+    border-right-style: none;
+    width: 167px;
+    border-top-style: none;
+    background: url('../../images/front-login/login_btn.png') no-repeat left top;
+    height: 65px;
+    border-left-style: none;
+    cursor: pointer;
+    margin-right: 10px;
+}
+.reset_btn {
+	BORDER-BOTTOM-STYLE: none; BORDER-RIGHT-STYLE: none; WIDTH: 137px; BORDER-TOP-STYLE: none; BACKGROUND: url(http://i1.quwan.com/ww/imgs/ucenter/regset_btn.png) no-repeat left top; HEIGHT: 45px; BORDER-LEFT-STYLE: none; CURSOR: pointer
+}
+.mobyz_btn {
+	BORDER-BOTTOM-STYLE: none; BORDER-RIGHT-STYLE: none; WIDTH: 216px; BORDER-TOP-STYLE: none; BACKGROUND: url(http://i1.quwan.com/ww/imgs/ucenter/jihuo3_btn.png) no-repeat left top; HEIGHT: 65px; BORDER-LEFT-STYLE: none; CURSOR: pointer
+}
+.gyzm_btn {
+	Z-INDEX: 1; TEXT-ALIGN: center; LINE-HEIGHT: 32px !important; WIDTH: 94px; DISPLAY: inline-block; BACKGROUND: url(http://i1.quwan.com/ww/imgs/ucenter/getyzm_btn.png) no-repeat left top; HEIGHT: 32px; COLOR: #666; CURSOR: pointer
+}
+.yzmoff_btn {
+	Z-INDEX: -1000; FILTER: alpha(opacity=40); CURSOR: default; opacity: 0.4
+}
+.jihuo_tip {
+	PADDING-BOTTOM: 20px; LINE-HEIGHT: 18px; PADDING-LEFT: 50px; PADDING-RIGHT: 0px; FONT-SIZE: 14px; PADDING-TOP: 10px
+}
+.jihuo_tip P {
+	PADDING-BOTTOM: 30px; WIDTH: 518px
+}
+.jihuo_help {
+	PADDING-BOTTOM: 15px; LINE-HEIGHT: 24px; BACKGROUND-COLOR: #f7f7f7; PADDING-LEFT: 15px; WIDTH: 518px; PADDING-RIGHT: 15px; MARGIN-LEFT: 50px; PADDING-TOP: 15px
+}
+.jihuo_help UL {
+	COLOR: #a5a5a5
+}
+.jihuo_help LI {
+	PADDING-LEFT: 10px; BACKGROUND: url(http://i1.quwan.com/ww/imgs/public/graydot.png) no-repeat 0px 11px
+}
+.reset_tip {
+	PADDING-BOTTOM: 50px; FONT-SIZE: 14px
+}
+.bang_tip {
+	BORDER-BOTTOM: #f5daa5 1px solid; BORDER-LEFT: #f5daa5 1px solid; PADDING-BOTTOM: 7px; LINE-HEIGHT: 20px; BACKGROUND-COLOR: #fff8cc; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; COLOR: #666; MARGIN-LEFT: 50px; BORDER-TOP: #f5daa5 1px solid; BORDER-RIGHT: #f5daa5 1px solid; PADDING-TOP: 7px
+}
+.regstep1 {
+	PADDING-BOTTOM: 15px; LINE-HEIGHT: 41px; FONT-FAMILY: microsoft yahei,SimHei; HEIGHT: 41px; COLOR: #1e9cce; FONT-SIZE: 18px; FONT-WEIGHT: bold
+}
+.nomgl {
+	MARGIN-LEFT: 0px
+}
+.npdl {
+	PADDING-LEFT: 0px
+}
+.mobyz_btn {
+	WIDTH: 176px; HEIGHT: 55px
+}
+.sendyz_btn {
+	BORDER-BOTTOM-STYLE: none; BORDER-RIGHT-STYLE: none; WIDTH: 176px; BORDER-TOP-STYLE: none; BACKGROUND: url(http://i1.quwan.com/ww/imgs/ucenter/sendyz_btn.png) no-repeat left top; HEIGHT: 55px; BORDER-LEFT-STYLE: none; CURSOR: pointer
+}
+.nopasstip {
+	COLOR: #ff0000; PADDING-TOP: 3px
+}
+.pdb15 {
+	PADDING-BOTTOM: 8px
+}
+.weibos {
+	LINE-HEIGHT: 20px
+}
+.weibos SPAN {
+	BACKGROUND-IMAGE: url(http://i1.quwan.com/ww/imgs/public/weibos_logo.png); MARGIN-TOP: 2px; WIDTH: 16px; DISPLAY: inline-block; BACKGROUND-REPEAT: no-repeat; HEIGHT: 16px; CURSOR: pointer; MARGIN-RIGHT: 6px
+}
+.sina_wb {
+	BACKGROUND-POSITION: 0px 0px
+}
+.qq_wb {
+	BACKGROUND-POSITION: -16px 0px
+}
+.ren_wb {
+	BACKGROUND-POSITION: -32px 0px
+}
+.kx_wb {
+	BACKGROUND-POSITION: -48px 0px
+}
+.db_wb {
+	BACKGROUND-POSITION: -64px 0px
+}
+.lookweibo {
+	MARGIN-BOTTOM: 15px; COLOR: #999; FONT-SIZE: 12px
+}
+.starwanwu_btn {
+	BORDER-BOTTOM-STYLE: none; BORDER-RIGHT-STYLE: none; WIDTH: 197px; BORDER-TOP-STYLE: none; BACKGROUND: url(../imgs/ucenter/starwanwu_btn.png) no-repeat left top; HEIGHT: 50px; BORDER-LEFT-STYLE: none; CURSOR: pointer
+}

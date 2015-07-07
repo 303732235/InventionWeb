@@ -1,0 +1,39 @@
+﻿.tabtitle
+{
+    font-size:12px;
+    height:32px;
+    font-weight:bolder;
+    text-align:center;
+    background-color:#70a4cf;
+   
+}
+.tabcenter
+{
+    font-size:12px;
+    height:28px;
+}
+.tabtr
+{
+    border-width:1px;
+    border-style:solid;
+    border-color:#70a4cf;
+}
+.tabtd
+{
+    border-left-width:1px;
+    border-left-color:#70a4cf;
+    border-left-style:solid;
+    text-align:center;
+}
+.tabbottom
+{
+    font-size:12px;
+    height:32px;
+    background-color:#70a4cf;
+}
+
+.Addpage
+{
+	background: #d6e4ef;
+	font-size:12px;
+}

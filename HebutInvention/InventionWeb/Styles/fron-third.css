@@ -1,0 +1,39 @@
+﻿.title
+{
+  font-size:15px;
+ } 
+ .title a
+ {
+      font-size:15px;
+     } 
+    .content
+   {
+      text-align: left;
+     margin: 0 auto;
+      width: 960px;
+        }
+        .content table
+        {
+            width:960px;
+        }
+           .RightHR
+   {
+       height:1;
+       color:#bebeca;
+       border-style:solid;   
+    }
+        .neirong
+        {
+            padding: 0px 0;
+            margin: 0px 0;
+        }
+        .neirong p
+        {
+            text-indent: 24px;
+            line-height: 24px;
+            font-size:13px;
+        }
+        img
+        {
+              max-width: 960px;
+         }

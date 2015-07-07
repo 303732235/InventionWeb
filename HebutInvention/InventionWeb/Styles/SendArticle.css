@@ -1,0 +1,32 @@
+﻿body 
+{
+    font-size:12px;
+ }
+        .content
+        {
+            margin-left: 20px;
+            margin-top: 40px;
+            width:100%;
+        }
+        .Publishleft
+        {
+            width: 13%;
+            text-align:center;
+        }
+        .Publishright
+        {
+            width: 87%;
+        }
+        .EditPicleft
+        {
+             width: 13%;
+            text-align:center;
+            }
+         .EditPicMiddle
+        {         
+              width:47%;
+         }
+         .EditPicright
+        {
+            width: 40%;
+        }

@@ -1,0 +1,812 @@
+HTML {
+	
+}
+BODY
+{
+    margin: 0px;
+    font: 12px/14px Arial, "ËÎÌו" ,Helvetica,Sans-Serif;
+    background: #a5e2f7;
+    letter-spacing: 0px;
+    color: #666666;
+}
+BODY {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+DIV {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+DL {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+DT {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+DD {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+UL {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+OL {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+LI {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+H1 {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+H2 {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+H3 {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+H4 {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+H5 {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+H6 {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+PRE {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+CODE {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+FORM {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+FIELDSET {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+LEGEND {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+INPUT {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+BUTTON {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+TEXTAREA {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+P {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+BLOCKQUOTE {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+TH {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+TD {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+UL {
+	PADDING-BOTTOM: 0px; LIST-STYLE-TYPE: none; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+LI {
+	PADDING-BOTTOM: 0px; LIST-STYLE-TYPE: none; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+IMG {
+	BORDER-BOTTOM-STYLE: none; PADDING-BOTTOM: 0px; BORDER-RIGHT-STYLE: none; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BORDER-TOP-STYLE: none; BORDER-LEFT-STYLE: none; PADDING-TOP: 0px
+}
+INPUT {
+	OUTLINE-STYLE: none; VERTICAL-ALIGN: middle
+}
+IMG {
+	OUTLINE-STYLE: none; VERTICAL-ALIGN: middle
+}
+SELECT {
+	OUTLINE-STYLE: none; VERTICAL-ALIGN: middle
+}
+INPUT[type='radio'] {
+	MARGIN-TOP: 0px !important
+}
+
+@media Unknown    
+{
+INPUT[type='radio'] {
+	MARGIN-TOP: -3px
+}
+    }
+LABEL {
+	PADDING-LEFT: 3px; FONT-FAMILY: Tahoma
+}
+A {
+	COLOR: #666666
+}
+A:link {
+	COLOR: #666666; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: #666666; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #ff2222; TEXT-DECORATION: underline
+}
+.clear {
+	LINE-HEIGHT: 0; HEIGHT: 0px; CLEAR: both; FONT-SIZE: 0px
+}
+#clear {
+	LINE-HEIGHT: 0; HEIGHT: 0px; CLEAR: both; FONT-SIZE: 0px
+}
+.fl {
+	FLOAT: left
+}
+.fr {
+	FLOAT: right
+}
+A.white {
+	COLOR: #fff
+}
+A.white:link {
+	COLOR: #fff
+}
+A.white:visited {
+	COLOR: #fff
+}
+A.white:hover {
+	COLOR: #fff
+}
+A.gray {
+	COLOR: #999
+}
+A.gray:link {
+	COLOR: #999
+}
+A.gray:visited {
+	COLOR: #999
+}
+A.gray:hover {
+	COLOR: #666
+}
+A.blue {
+	COLOR: #1e9cce
+}
+A.blue:link {
+	COLOR: #1e9cce
+}
+A.blue:visited {
+	COLOR: #1e9cce
+}
+A.blue:hover {
+	COLOR: #1e9cce
+}
+A.red {
+	COLOR: #ff2222
+}
+A.red:link {
+	COLOR: #ff2222
+}
+A.red:visited {
+	COLOR: #ff2222
+}
+A.red:hover {
+	COLOR: #ff2222
+}
+.left {
+	WIDTH: 710px; OVERFLOW: hidden
+}
+.right {
+	WIDTH: 237px
+}
+.tipbox {
+	BORDER-BOTTOM: #e2e2e2 1px solid; BORDER-LEFT: #e2e2e2 1px solid; BORDER-TOP: #e2e2e2 1px solid; BORDER-RIGHT: #e2e2e2 1px solid
+}
+.txted {
+	COLOR: #c4c4c4
+}
+#headbox {
+	BACKGROUND-COLOR: #1e9cce; MARGIN: 0px auto; WIDTH: 100%
+}
+#head {
+	MARGIN: 0px auto; WIDTH: 960px; HEIGHT: 83px
+}
+.logo {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 3px; WIDTH: 159px; PADDING-RIGHT: 0px; PADDING-TOP: 21px
+}
+.logo_beta {
+	PADDING-TOP: 10px
+}
+.slogans {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 13px; PADDING-RIGHT: 0px; PADDING-TOP: 39px
+}
+#uinfo {
+	TEXT-ALIGN: right; PADDING-BOTTOM: 0px; LINE-HEIGHT: 28px; PADDING-LEFT: 0px; WIDTH: 450px; PADDING-RIGHT: 5px; HEIGHT: 28px; COLOR: #a5e2f7; PADDING-TOP: 5px
+}
+#uinfo LI {
+	FLOAT: right
+}
+#uinfo LI B {
+	COLOR: #ff0000; FONT-WEIGHT: normal
+}
+#uinfo A {
+	COLOR: #fff
+}
+#uinfo A:link {
+	COLOR: #fff
+}
+#uinfo A:visited {
+	COLOR: #fff
+}
+#uinfo A:hover {
+	COLOR: #fff
+}
+#mypop {
+	Z-INDEX: 200; POSITION: relative; WIDTH: 83px
+}
+.mywanwu {
+	Z-INDEX: 201; POSITION: relative; TEXT-ALIGN: center; WIDTH: 83px; DISPLAY: block; COLOR: #fff
+}
+.my_parrow {
+	Z-INDEX: 201; BORDER-BOTTOM: #1d9dce 4px solid; POSITION: absolute; BORDER-LEFT: #1d9dce 4px solid; LINE-HEIGHT: 0; WIDTH: 0px; HEIGHT: 0px; FONT-SIZE: 0px; BORDER-TOP: #fff 4px solid; TOP: 11px; RIGHT: 6px; BORDER-RIGHT: #1d9dce 4px solid
+}
+.my_parrowon {
+	BORDER-BOTTOM: #fff 5px solid; BORDER-LEFT: #2cb3e2 4px solid; BORDER-TOP: #2cb3e2 4px solid; TOP: 6px; BORDER-RIGHT: #2cb3e2 4px solid
+}
+#my_pop {
+	Z-INDEX: 200; POSITION: absolute; TEXT-ALIGN: right; BACKGROUND-COLOR: #2cb3e2; WIDTH: 77px !important; DISPLAY: none; HEIGHT: 28px; OVERFLOW: hidden; TOP: -2px; LEFT: 8px
+}
+#my_pop A {
+	MARGIN-LEFT: 6px
+}
+#my_popin {
+	Z-INDEX: 199; POSITION: absolute; PADDING-BOTTOM: 7px; BACKGROUND-COLOR: #2cb3e2; WIDTH: 112px; DISPLAY: none; TOP: 26px; RIGHT: -2px !important; PADDING-TOP: 10px
+}
+#my_popin P {
+	LINE-HEIGHT: 32px; PADDING-RIGHT: 20px
+}
+#my_popin A {
+	TEXT-ALIGN: right; COLOR: #fff
+}
+#my_popin A:link {
+	COLOR: #fff
+}
+#my_popin A:visited {
+	COLOR: #fff
+}
+#my_popin A:hover {
+	COLOR: #0080ac
+}
+#my_logout {
+	PADDING-LEFT: 0px
+}
+.split {
+	PADDING-LEFT: 2px; PADDING-RIGHT: 2px; COLOR: #4ab4dc
+}
+.sign_box {
+	Z-INDEX: 9999; POSITION: relative
+}
+#signpop {
+	BORDER-BOTTOM: #e8d3b4 1px solid; POSITION: absolute; TEXT-ALIGN: left; BORDER-LEFT: #e8d3b4 1px solid; PADDING-BOTTOM: 10px; LINE-HEIGHT: 18px; BACKGROUND-COLOR: #ffffea; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; DISPLAY: none; WHITE-SPACE: nowrap; COLOR: #999; FONT-SIZE: 12px; BORDER-TOP: #e8d3b4 1px solid; TOP: 24px; BORDER-RIGHT: #e8d3b4 1px solid; PADDING-TOP: 10px; LEFT: 2px
+}
+.sign_btn {
+	LINE-HEIGHT: 1000px; MARGIN-TOP: 3px; WIDTH: 54px; BACKGROUND: url(../imgs/public/sign_btn.png) repeat-x 0px 0px; HEIGHT: 24px; OVERFLOW: hidden; CURSOR: pointer
+}
+.sign_btnon {
+	BACKGROUND-POSITION: 0px -24px
+}
+.navbox {
+	MARGIN: 0px auto; WIDTH: 100%; BACKGROUND: url(../imgs/public/navbox_bg.png) #25b3e3 repeat-x 0px 0px; HEIGHT: 43px
+}
+.nav {
+	LINE-HEIGHT: 40px; MARGIN: 0px auto; WIDTH: 960px; HEIGHT: 43px
+}
+.nav_ul LI {
+	DISPLAY: block; FONT-FAMILY: microsoft yahei; FLOAT: left; HEIGHT: 43px; FONT-SIZE: 14px; FONT-WEIGHT: bold; MARGIN-RIGHT: 5px
+}
+.nav_ul A {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 16px; PADDING-RIGHT: 16px; DISPLAY: block; FLOAT: left; HEIGHT: 43px; COLOR: #fff; PADDING-TOP: 0px
+}
+.nav_ul A:link {
+	COLOR: #fff
+}
+.nav_ul A:visited {
+	COLOR: #fff
+}
+.navon {
+	BACKGROUND: url(../imgs/public/navon_bg.png) repeat-x 0px 0px; COLOR: #1e9cce; TEXT-DECORATION: none
+}
+.nav_ul A:hover {
+	BACKGROUND: url(../imgs/public/navon_bg.png) repeat-x 0px 0px; COLOR: #1e9cce; TEXT-DECORATION: none
+}
+.navon {
+	COLOR: #1e9cce
+}
+A.navon:link {
+	COLOR: #1e9cce
+}
+A.navon:visited {
+	COLOR: #1e9cce
+}
+A.navon:hover {
+	COLOR: #1e9cce
+}
+.nav_r {
+	PADDING-TOP: 4px
+}
+.nav_r SPAN {
+	LINE-HEIGHT: 35px; COLOR: #fff
+}
+.navwb {
+	LINE-HEIGHT: 1000px; MARGIN: 0px 4px; WIDTH: 29px; DISPLAY: block; BACKGROUND-REPEAT: no-repeat; BACKGROUND-POSITION: 0px 0px; HEIGHT: 30px; OVERFLOW: hidden
+}
+A.navwb:link {
+	BACKGROUND-REPEAT: no-repeat; BACKGROUND-POSITION: 0px 0px
+}
+A.navwb:visited {
+	BACKGROUND-REPEAT: no-repeat; BACKGROUND-POSITION: 0px 0px
+}
+A.navwb:hover {
+	BACKGROUND-REPEAT: no-repeat; BACKGROUND-POSITION: 0px -30px
+}
+.navwb1 {
+	BACKGROUND-IMAGE: url(../imgs/public/nav_qq.png)
+}
+.navwb2 {
+	BACKGROUND-IMAGE: url(../imgs/public/nav_sina.png)
+}
+.ftip {
+	MARGIN: 10px auto 0px; WIDTH: 960px; HEIGHT: auto
+}
+#main {
+	MARGIN: 0px auto; WIDTH: 960px; HEIGHT: auto; PADDING-TOP: 15px
+}
+#toptip {
+	TEXT-ALIGN: center; LINE-HEIGHT: 40px; MARGIN-BOTTOM: 15px
+}
+.top_ad {
+	MARGIN-BOTTOM: 15px; HEIGHT: auto; OVERFLOW: hidden
+}
+.top_ad IMG {
+	WIDTH: 960px
+}
+.zone {
+	DISPLAY: block; MARGIN-BOTTOM: 15px; HEIGHT: auto
+}
+.zonetop {
+	LINE-HEIGHT: 0; BACKGROUND: url(http://i1.quwan.com/ww/imgs/public/block_bg.png) no-repeat left top; HEIGHT: 4px; FONT-SIZE: 0px
+}
+* HTML .zonetop {
+	FILTER: progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=scale, src="imgs/public/block_bg.png"); BACKGROUND: none transparent scroll repeat 0% 0%
+}
+.zonetop SPAN {
+	WIDTH: 5px; DISPLAY: block; BACKGROUND: url(http://i1.quwan.com/ww/imgs/public/block_bg.png) no-repeat right top; FLOAT: right; HEIGHT: 4px
+}
+.zonebox {
+	PADDING-BOTTOM: 6px; BACKGROUND-COLOR: #fff; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; DISPLAY: block; HEIGHT: auto; PADDING-TOP: 6px
+}
+.zonebot {
+	LINE-HEIGHT: 0; BACKGROUND: url(http://i1.quwan.com/ww/imgs/public/block_bg.png) no-repeat left bottom; HEIGHT: 4px; FONT-SIZE: 0px
+}
+.zonebot SPAN {
+	WIDTH: 5px; DISPLAY: block; BACKGROUND: url(http://i1.quwan.com/ww/imgs/public/block_bg.png) no-repeat right bottom; FLOAT: right; HEIGHT: 4px
+}
+.txt_dl {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 15px; PADDING-RIGHT: 15px; PADDING-TOP: 0px
+}
+.txt_dl DT {
+	PADDING-BOTTOM: 10px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 6px
+}
+.txt_dl DT B {
+	LINE-HEIGHT: 16px; COLOR: #1e9cce; FONT-SIZE: 12px
+}
+.txt_dl DD {
+	PADDING-BOTTOM: 20px; LINE-HEIGHT: 20px; COLOR: #999
+}
+.txt_dl DD P {
+	TEXT-ALIGN: center
+}
+.main_dl {
+	
+}
+.main_dl DT {
+	PADDING-BOTTOM: 20px; PADDING-LEFT: 24px; PADDING-RIGHT: 0px; FONT-FAMILY: microsoft yahei,SimHei; PADDING-TOP: 18px
+}
+.main_t1 {
+	COLOR: #f48713; FONT-SIZE: 18px
+}
+.main_dl DD {
+	PADDING-BOTTOM: 20px; PADDING-LEFT: 20px; PADDING-RIGHT: 20px; BORDER-TOP: #e3e3e3 1px solid; PADDING-TOP: 20px
+}
+.main_t2 {
+	COLOR: #1e9cce; FONT-SIZE: 14px
+}
+.ebox {
+	BACKGROUND-COLOR: #fff; DISPLAY: block; HEIGHT: auto
+}
+.etop
+{
+    line-height: 0;
+    background: url('../../images/front-login/input_bg.png') no-repeat left top;
+    height: 6px;
+    font-size: 0px;
+}
+.etop SPAN {
+	WIDTH: 5px; DISPLAY: block; BACKGROUND: url('../../images/front-login/input_bg.png') no-repeat right top; FLOAT: right; HEIGHT: 6px
+}
+.edit {
+	BORDER-LEFT: #e3e3e3 1px solid; PADDING-BOTTOM: 4px; PADDING-LEFT: 8px; PADDING-RIGHT: 10px; DISPLAY: block; HEIGHT: auto; BORDER-RIGHT: #e3e3e3 1px solid; PADDING-TOP: 0px
+}
+.edit INPUT {
+	BORDER-BOTTOM: #fff 1px solid; BORDER-LEFT: #fff 1px solid; BORDER-TOP: #fff 1px solid; BORDER-RIGHT: #fff 1px solid
+}
+.ebot {
+	LINE-HEIGHT: 0; BACKGROUND: url('../../images/front-login/input_bg.png') no-repeat left bottom; HEIGHT: 4px; FONT-SIZE: 0px
+}
+.ebot SPAN {
+	WIDTH: 5px; DISPLAY: block; BACKGROUND: url('../../images/front-login/input_bg.png') no-repeat right bottom; FLOAT: right; HEIGHT: 4px
+}
+.dbox {
+	BACKGROUND-COLOR: #fff; DISPLAY: block; HEIGHT: auto
+}
+.dtop {
+	LINE-HEIGHT: 0; BACKGROUND: url(http://i1.quwan.com/ww/imgs/public/dinput_bg.png) no-repeat left top; HEIGHT: 6px; FONT-SIZE: 0px
+}
+.dtop SPAN {
+	WIDTH: 5px; DISPLAY: block; BACKGROUND: url(http://i1.quwan.com/ww/imgs/public/dinput_bg.png) no-repeat right top; FLOAT: right; HEIGHT: 6px
+}
+.disedit {
+	BORDER-LEFT: #e3e3e3 1px solid; PADDING-BOTTOM: 4px; BACKGROUND-COLOR: #f5f5f5; PADDING-LEFT: 8px; PADDING-RIGHT: 10px; DISPLAY: block; HEIGHT: auto; BORDER-RIGHT: #e3e3e3 1px solid; PADDING-TOP: 0px
+}
+.disedit INPUT {
+	BORDER-BOTTOM: #f5f5f5 1px solid; BORDER-LEFT: #f5f5f5 1px solid; BACKGROUND-COLOR: #f5f5f5; COLOR: #666; BORDER-TOP: #f5f5f5 1px solid; BORDER-RIGHT: #f5f5f5 1px solid
+}
+.dbot {
+	LINE-HEIGHT: 0; BACKGROUND: url(http://i1.quwan.com/ww/imgs/public/dinput_bg.png) no-repeat left bottom; HEIGHT: 4px; FONT-SIZE: 0px
+}
+.dbot SPAN {
+	WIDTH: 5px; DISPLAY: block; BACKGROUND: url(http://i1.quwan.com/ww/imgs/public/dinput_bg.png) no-repeat right bottom; FLOAT: right; HEIGHT: 4px
+}
+#footbox
+{
+    text-align: center;
+    width: 100%;
+    background-color:#1e9cce;
+}
+.footinfo {
+	PADDING-BOTTOM: 15px; PADDING-TOP: 15px
+}
+.footinfo SPAN {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 15px; PADDING-RIGHT: 15px; COLOR: #638e16; PADDING-TOP: 0px
+}
+.footinfo A {
+	COLOR: #f5ffd5
+}
+.footinfo A:link {
+	COLOR: #f5ffd5
+}
+.footinfo A:visited {
+	COLOR: #f5ffd5
+}
+.footinfo A:hover {
+	COLOR: #fff
+}
+.footicp {
+	COLOR: #fff;
+	padding-bottom:15px;
+}
+.page_box {
+	TEXT-ALIGN: center; PADDING-BOTTOM: 18px; LINE-HEIGHT: 23px !important; FONT-FAMILY: Tahoma; HEIGHT: 24px; PADDING-TOP: 15px
+}
+.page_box A {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 9px; PADDING-RIGHT: 9px; DISPLAY: inline-block; HEIGHT: 23px; PADDING-TOP: 0px
+}
+.page_box SPAN {
+	BORDER-BOTTOM: #dbdbdb 1px solid; BORDER-LEFT: #dbdbdb 1px solid; MARGIN: 0px 3px; DISPLAY: inline-block; HEIGHT: 23px; VERTICAL-ALIGN: middle !important; BORDER-TOP: #dbdbdb 1px solid; BORDER-RIGHT: #dbdbdb 1px solid
+}
+.page_box FONT {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; FONT-SIZE: 12px; PADDING-TOP: 0px
+}
+.page_box B {
+	COLOR: #049fcf; FONT-WEIGHT: normal
+}
+#page_on {
+	BORDER-BOTTOM: #049fcf 1px solid; BORDER-LEFT: #049fcf 1px solid; PADDING-BOTTOM: 0px; BACKGROUND-COLOR: #ddf6fc; PADDING-LEFT: 9px; PADDING-RIGHT: 9px; COLOR: #049fcf; BORDER-TOP: #049fcf 1px solid; BORDER-RIGHT: #049fcf 1px solid; PADDING-TOP: 0px
+}
+.star {
+	BACKGROUND-IMAGE: url(http://i1.quwan.com/ww/imgs/public/star.gif); LINE-HEIGHT: 0; MARGIN: 2px 5px 0px 0px; WIDTH: 150px; DISPLAY: block; BACKGROUND-REPEAT: no-repeat; HEIGHT: 15px; FONT-SIZE: 0px
+}
+.star A {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 0; MARGIN: 0px; PADDING-LEFT: 0px; WIDTH: 15px; PADDING-RIGHT: 0px; FLOAT: left; HEIGHT: 15px; FONT-SIZE: 0px; CURSOR: pointer; PADDING-TOP: 0px
+}
+#stars {
+	POSITION: relative
+}
+.s0 {
+	BACKGROUND-POSITION: 0px 1px
+}
+.s0-5 {
+	BACKGROUND-POSITION: 0px -73px
+}
+.s1 {
+	BACKGROUND-POSITION: 0px -149px
+}
+.s1-5 {
+	BACKGROUND-POSITION: 0px -58px
+}
+.s2 {
+	BACKGROUND-POSITION: 0px -134px
+}
+.s2-5 {
+	BACKGROUND-POSITION: 0px -44px
+}
+.s3 {
+	BACKGROUND-POSITION: 0px -119px
+}
+.s3-5 {
+	BACKGROUND-POSITION: 0px -29px
+}
+.s4 {
+	BACKGROUND-POSITION: 0px -104px
+}
+.s4-5 {
+	BACKGROUND-POSITION: 0px -15px
+}
+.s5 {
+	BACKGROUND-POSITION: 0px -89px
+}
+.star FONT {
+	POSITION: absolute; LINE-HEIGHT: 14px; DISPLAY: block; FLOAT: left; FONT-SIZE: 12px; TOP: 3px !important; LEFT: 83px
+}
+.alert_txt {
+	PADDING-LEFT: 20px; BACKGROUND: url(http://i1.quwan.com/ww/imgs/ucenter/alert_st.png) no-repeat left center; COLOR: #ff2222
+}
+.ok_txt {
+	COLOR: #999
+}
+.oked_txt {
+	PADDING-LEFT: 20px; BACKGROUND: url(http://i1.quwan.com/ww/imgs/ucenter/oked_st.png) no-repeat left center
+}
+#slotpop {
+	Z-INDEX: 99999; POSITION: absolute; WIDTH: 298px; DISPLAY: none; HEIGHT: 407px; OVERFLOW: visible
+}
+#slot_top {
+	WIDTH: 298px; BACKGROUND: url(http://i1.quwan.com/ww/imgs/public/slottop_bg.png) no-repeat 0px 0px; HEIGHT: 44px
+}
+* HTML #slot_top {
+	FILTER: progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=scale, src="imgs/public/slottop_bg.png"); BACKGROUND: none transparent scroll repeat 0% 0%
+}
+#slotbox {
+	WIDTH: 298px; BACKGROUND: url(http://i1.quwan.com/ww/imgs/public/slot_bg.png) no-repeat 0px 0px; HEIGHT: 355px
+}
+#slot_bot {
+	LINE-HEIGHT: 0; WIDTH: 298px; BACKGROUND: url(http://i1.quwan.com/ww/imgs/public/slotbot_bg.png) no-repeat 0px 0px; HEIGHT: 8px; FONT-SIZE: 0px
+}
+* HTML #slot_bot {
+	FILTER: progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=scale, src="imgs/public/slotbot_bg.png"); BACKGROUND: none transparent scroll repeat 0% 0%
+}
+.slotbox {
+	POSITION: relative
+}
+.slotbar {
+	Z-INDEX: 1000000; POSITION: absolute; WIDTH: 51px; BACKGROUND: url(http://i1.quwan.com/ww/imgs/public/slotbar.png) no-repeat 0px 0px; HEIGHT: 142px; TOP: 85px; CURSOR: pointer; RIGHT: -51px
+}
+* HTML .slotbar {
+	FILTER: progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=scale, src="imgs/public/slotbar.png"); BACKGROUND: none transparent scroll repeat 0% 0%
+}
+.slotbar_on {
+	BACKGROUND: url(http://i1.quwan.com/ww/imgs/public/slotbar_on.png) no-repeat 0px 0px; CURSOR: default
+}
+* HTML .slotbar_on {
+	FILTER: progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=scale, src="imgs/public/slotbar_on.png"); BACKGROUND: none transparent scroll repeat 0% 0%
+}
+.slotbar_hide {
+	Z-INDEX: 99997
+}
+#slotclose {
+	Z-INDEX: 1000000; POSITION: absolute; WIDTH: 26px; BACKGROUND: url(http://i1.quwan.com/ww/imgs/public/slot_close.png) no-repeat 0px 0px; HEIGHT: 27px; TOP: 21px; CURSOR: pointer; RIGHT: -9px
+}
+* HTML #slotclose {
+	FILTER: progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=scale, src="imgs/public/slot_close.png"); BACKGROUND: none transparent scroll repeat 0% 0%
+}
+#slotop_info {
+	TEXT-ALIGN: center; HEIGHT: 40px; COLOR: #dc1010; FONT-SIZE: 14px; FONT-WEIGHT: bold; PADDING-TOP: 13px
+}
+#slotop_infop {
+	LINE-HEIGHT: 16px; BACKGROUND-COLOR: #ffedae; MARGIN: 0px 20px
+}
+#playbox {
+	PADDING-LEFT: 29px; HEIGHT: 165px; PADDING-TOP: 14px
+}
+.slotline {
+	POSITION: relative; WIDTH: 74px; PADDING-RIGHT: 4px; DISPLAY: block; BACKGROUND: url(http://i1.quwan.com/ww/imgs/public/slotnum_box.png) no-repeat 0px 0px; FLOAT: left; HEIGHT: 125px; OVERFLOW: hidden; MARGIN-RIGHT: 5px
+}
+.slotline IMG {
+	LINE-HEIGHT: 125px; WIDTH: 74px; DISPLAY: block; HEIGHT: 125px
+}
+.line {
+	LINE-HEIGHT: 125px; WIDTH: 74px; DISPLAY: block; HEIGHT: 125px
+}
+.line1 {
+	BACKGROUND: url(http://i1.quwan.com/ww/imgs/public/slotline1.png) no-repeat 0px 0px
+}
+* HTML .line1 {
+	FILTER: progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=scale, src="imgs/public/slotline1.png"); BACKGROUND: none transparent scroll repeat 0% 0%
+}
+.line2 {
+	BACKGROUND: url(http://i1.quwan.com/ww/imgs/public/slotline2.png) no-repeat 0px 0px
+}
+* HTML .line2 {
+	FILTER: progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=scale, src="imgs/public/slotline2.png"); BACKGROUND: none transparent scroll repeat 0% 0%
+}
+.line3 {
+	BACKGROUND: url(http://i1.quwan.com/ww/imgs/public/slotline3.png) no-repeat 0px 0px
+}
+* HTML .line3 {
+	FILTER: progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=scale, src="imgs/public/slotline3.png"); BACKGROUND: none transparent scroll repeat 0% 0%
+}
+.line4 {
+	BACKGROUND: url(http://i1.quwan.com/ww/imgs/public/slotline4.png) no-repeat 0px 0px
+}
+* HTML .line4 {
+	FILTER: progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=scale, src="imgs/public/slotline4.png"); BACKGROUND: none transparent scroll repeat 0% 0%
+}
+.line5 {
+	BACKGROUND: url(http://i1.quwan.com/ww/imgs/public/slotline5.png) no-repeat 0px 0px
+}
+* HTML .line5 {
+	FILTER: progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=scale, src="imgs/public/slotline5.png"); BACKGROUND: none transparent scroll repeat 0% 0%
+}
+.line6 {
+	BACKGROUND: url(http://i1.quwan.com/ww/imgs/public/slotline6.png) no-repeat 0px 0px
+}
+* HTML .line6 {
+	FILTER: progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=scale, src="imgs/public/slotline6.png"); BACKGROUND: none transparent scroll repeat 0% 0%
+}
+#slotbot_info {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 12px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+.slottip {
+	MARGIN: 10px 0px 0px; WIDTH: 273px; BACKGROUND: url(http://i1.quwan.com/ww/imgs/public/slotinfo_bg.png) no-repeat 0px 0px
+}
+.slottip DT {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; HEIGHT: auto; PADDING-TOP: 10px
+}
+.ready_p {
+	PADDING-BOTTOM: 23px; LINE-HEIGHT: 22px; PADDING-LEFT: 40px; PADDING-RIGHT: 0px; COLOR: #dc1011; PADDING-TOP: 20px
+}
+.slotlook {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 14px; PADDING-LEFT: 10px; PADDING-RIGHT: 0px; COLOR: #333; PADDING-TOP: 12px
+}
+.slot_motto {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 16px; PADDING-LEFT: 80px; PADDING-RIGHT: 0px; BACKGROUND: url(http://i1.quwan.com/ww/imgs/public/motto_bg.png) no-repeat 0px 0px; HEIGHT: 63px; COLOR: #333; PADDING-TOP: 5px
+}
+.slottip DD {
+	LINE-HEIGHT: 0; BACKGROUND: url(http://i1.quwan.com/ww/imgs/public/slotinfo_bg.png) no-repeat left bottom; HEIGHT: 3px; FONT-SIZE: 0px
+}
+#slotip {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 42px; PADDING-LEFT: 8px; WIDTH: 182px; PADDING-RIGHT: 8px; BACKGROUND: url(http://i1.quwan.com/ww/imgs/public/slotip_bg.png) no-repeat 0px 0px; HEIGHT: 47px; COLOR: #dc1011; OVERFLOW: hidden; MARGIN-RIGHT: 6px; PADDING-TOP: 0px
+}
+#slotlook {
+	WIDTH: 70px; HEIGHT: 40px; CURSOR: pointer
+}
+.slot_ginfo {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 18px; PADDING-LEFT: 5px; WIDTH: 268px; PADDING-RIGHT: 0px; COLOR: #333; PADDING-TOP: 5px
+}
+.slot_ginfo IMG {
+	MARGIN-RIGHT: 15px
+}
+.slot_ginfo P {
+	PADDING-TOP: 4px
+}
+.slot_ginfo SPAN {
+	COLOR: #fa2b22
+}
+.slotget_btn {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 80px; PADDING-RIGHT: 0px; PADDING-TOP: 10px
+}
+.lampstar {
+	POSITION: absolute; WIDTH: 58px; DISPLAY: none; BACKGROUND: url(http://i1.quwan.com/ww/imgs/public/lampstar.gif) no-repeat 0px 0px; HEIGHT: 20px; TOP: 13px; LEFT: 119px
+}
+.nihong {
+	POSITION: absolute; WIDTH: 206px; DISPLAY: none; BACKGROUND: url(http://i1.quwan.com/ww/imgs/public/nihong.gif) no-repeat 0px 0px; HEIGHT: 10px
+}
+#nihong1 {
+	TOP: 86px; LEFT: 57px
+}
+#nihong2 {
+	TOP: 255px; LEFT: 57px
+}
+.slotsound {
+	POSITION: absolute; WIDTH: 1px; DISPLAY: none; HEIGHT: 1px; TOP: 0px; LEFT: 0px
+}
+.pop {
+	Z-INDEX: 999999; POSITION: absolute; WIDTH: 490px; DISPLAY: none
+}
+.pop DT {
+	LINE-HEIGHT: 0; FONT-SIZE: 0px
+}
+.pop_top {
+	
+}
+.pop_rt {
+	WIDTH: 8px; BACKGROUND: url(http://i1.quwan.com/ww/imgs/public/pop_bg.png) no-repeat -7px 0px; HEIGHT: 8px
+}
+.pop_top {
+	BACKGROUND-COLOR: #1e9cce; WIDTH: 474px; HEIGHT: 7px; BORDER-TOP: #a5e2f7 1px solid
+}
+.pop_lt {
+	WIDTH: 8px; BACKGROUND: url(http://i1.quwan.com/ww/imgs/public/pop_bg.png) no-repeat 0px 0px; HEIGHT: 8px
+}
+.pop_bot {
+	
+}
+.pop_rb {
+	WIDTH: 8px; BACKGROUND: url(http://i1.quwan.com/ww/imgs/public/pop_bg.png) no-repeat -6px -8px; HEIGHT: 10px
+}
+.pop_bot {
+	WIDTH: 474px; BACKGROUND: url(http://i1.quwan.com/ww/imgs/public/pop_bg.png) repeat-x 0px -18px; HEIGHT: 10px
+}
+.pop_lb {
+	WIDTH: 8px; BACKGROUND: url(http://i1.quwan.com/ww/imgs/public/pop_bg.png) no-repeat 0px -8px; HEIGHT: 10px
+}
+.pop DD {
+	BORDER-LEFT: #a5e2f7 1px solid; BACKGROUND-COLOR: #fff; BORDER-RIGHT: #a5e2f7 1px solid
+}
+.pop_bar {
+	PADDING-BOTTOM: 5px; BACKGROUND-COLOR: #1e9cce; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; COLOR: #fff; FONT-SIZE: 14px; PADDING-TOP: 4px
+}
+.pop_bar P {
+	PADDING-BOTTOM: 5px; PADDING-LEFT: 10px; PADDING-RIGHT: 0px; FONT-WEIGHT: bold; PADDING-TOP: 5px
+}
+.pop_close {
+	Z-INDEX: 100; POSITION: absolute; WIDTH: 20px; BACKGROUND: url(http://i1.quwan.com/ww/imgs/public/pop_close.png) no-repeat left top; HEIGHT: 23px; TOP: -8px; CURSOR: pointer; RIGHT: -6px
+}
+* HTML .pop_close {
+	FILTER: progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=scale, src="imgs/public/pop_close.png"); BACKGROUND: none transparent scroll repeat 0% 0%
+}
+.pop_in {
+	PADDING-BOTTOM: 30px; PADDING-LEFT: 22px; PADDING-RIGHT: 5px; HEIGHT: auto; PADDING-TOP: 12px
+}
+.pop_in P {
+	TEXT-ALIGN: center; LINE-HEIGHT: 14px; FONT-SIZE: 14px; PADDING-TOP: 15px
+}
+.popbtn {
+	CURSOR: pointer
+}
+.popedit {
+	POSITION: relative
+}
+#popsd_title {
+	POSITION: absolute; COLOR: #999; TOP: 3px; LEFT: 11px
+}
+#popbg {
+	Z-INDEX: 99998; POSITION: absolute; BACKGROUND-COLOR: #666; DISPLAY: none; TOP: 0px; LEFT: 0px
+}
+.yao_btn {
+	BORDER-BOTTOM-STYLE: none; TEXT-ALIGN: center; LINE-HEIGHT: 26px !important; BORDER-RIGHT-STYLE: none; WIDTH: 79px; DISPLAY: inline-block; BORDER-TOP-STYLE: none; BACKGROUND: url(http://i1.quwan.com/ww/imgs/public/copylink_btn.png) no-repeat left top; HEIGHT: 32px; COLOR: #fff; FONT-SIZE: 12px; BORDER-LEFT-STYLE: none; CURSOR: pointer
+}
+.pub_tip {
+	BORDER-BOTTOM: #ecd08c 1px solid; POSITION: relative; BORDER-LEFT: #ecd08c 1px solid; PADDING-BOTTOM: 12px; LINE-HEIGHT: 22px; BACKGROUND-COLOR: #fffee0; MARGIN: 0px 0px 10px; PADDING-LEFT: 12px; PADDING-RIGHT: 12px; COLOR: #666; BORDER-TOP: #ecd08c 1px solid; BORDER-RIGHT: #ecd08c 1px solid; PADDING-TOP: 12px
+}
+.pub_tip B {
+	COLOR: #ff0000; FONT-WEIGHT: normal
+}
+.pub_tip SPAN {
+	POSITION: absolute; WIDTH: 13px; DISPLAY: block; BACKGROUND: url(http://i1.quwan.com/ww/imgs/public/close.png) no-repeat left top; HEIGHT: 13px; TOP: 6px; CURSOR: pointer; RIGHT: 6px
+}
+.pub_tip P {
+	FONT-FAMILY: microsoft yahei; FONT-SIZE: 16px; FONT-WEIGHT: bold
+}
+.scroll_div {
+	Z-INDEX: 1; POSITION: fixed; WIDTH: 32px; BOTTOM: 200px; DISPLAY: none; BACKGROUND: url(http://i1.quwan.com/ww/imgs/public/totop.gif) no-repeat center top; HEIGHT: 111px; COLOR: #ffffff; CURSOR: pointer; LEFT: 1000px; _position: absolute; _bottom: auto
+}
+.selsay {
+	
+}
+.selsay LI {
+	PADDING-BOTTOM: 2px; LINE-HEIGHT: 16px; PADDING-LEFT: 4px; PADDING-RIGHT: 4px; DISPLAY: block; FLOAT: left; FONT-SIZE: 14px; CURSOR: pointer; MARGIN-RIGHT: 5px; PADDING-TOP: 4px
+}
+.selsay_off {
+	BACKGROUND-COLOR: #fff; COLOR: #1e9cce
+}
+.selsay_on {
+	BACKGROUND-COLOR: #1e9cce; COLOR: #fff
+}

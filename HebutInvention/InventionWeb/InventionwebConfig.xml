@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <PointRule>
+    <NewPost>10</NewPost>
+    <Revert>3</Revert>
+  </PointRule>
+  <PageSize>
+    <BoardView>20</BoardView>
+    <ThemeView>10</ThemeView>
+  </PageSize>
+  <DbMgr>
+    <uid>123</uid>
+    <pwd>123</pwd>
+  </DbMgr>
+  <Filter>
+    <FilterItem>法轮功</FilterItem>
+    <FilterItem>法轮大法</FilterItem>
+    <FilterItem>法轮</FilterItem>
+    <FilterItem>台独</FilterItem>
+    <FilterItem>藏独</FilterItem>
+    <FilterItem>SB</FilterItem>
+    <FilterItem>傻逼</FilterItem>
+    <FilterItem>煞笔</FilterItem>
+    <FilterItem>傻比</FilterItem>
+    <FilterItem>薄熙来</FilterItem>
+  </Filter>
+  <Interval>20</Interval>
+</Config>
